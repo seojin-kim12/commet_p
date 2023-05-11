@@ -3,7 +3,7 @@ import React from "react";
 const styles = {
   wrapper: {
     margin: 8,
-    padding: 7,
+    padding: 8,
     display: "flex",
     flexDirection: "row",
     border: "1px solid grey",
